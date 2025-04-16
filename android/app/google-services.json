@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657327108631",
+    "project_id": "theog-15d69",
+    "storage_bucket": "theog-15d69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657327108631:android:2137b051a7c957dfcc2252",
+        "android_client_info": {
+          "package_name": "com.theog.theog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSRqg9zkQzKigTupmdcEFWwjkuH0sKr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
